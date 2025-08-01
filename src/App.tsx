@@ -172,7 +172,7 @@ function App() {
             {messages.length === 0 && (
               <div className="text-center text-gray-500 mt-16">
                 <MessageCircle className="w-16 h-16 mx-auto mb-4 text-gray-300" />
-                <p className="text-lg">Start a conversation with Watson!</p>
+                <p className="text-lg">Start a conversation with  AI Travel Planner!</p>
                 <p className="text-sm mt-2">Type your message below to begin.</p>
               </div>
             )}
