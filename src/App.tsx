@@ -256,7 +256,7 @@ function App() {
         <div className="mt-8 text-center text-sm text-gray-500">
           <p>
             Powered by{' '}
-            <span className="font-semibold text-blue-600">IBM Watsonx.ai</span> •
+            <span className="font-semibold text-blue-600">IBM  AI Travel Planner.ai</span> •
             Built with React & FastAPI
           </p>
           <div className="mt-2 text-xs text-gray-400">
