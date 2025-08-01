@@ -206,7 +206,7 @@ function App() {
                 <div className="bg-gray-100 border border-gray-200 rounded-2xl px-4 py-3 shadow-sm">
                   <div className="flex items-center space-x-2">
                     <Loader2 className="w-4 h-4 animate-spin text-blue-500" />
-                    <p className="text-sm text-gray-600">Watson is thinking...</p>
+                    <p className="text-sm text-gray-600">Travel Planner is thinking...</p>
                   </div>
                 </div>
               </div>
